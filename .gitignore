@@ -1,0 +1,5 @@
+myvenv.venv/
+.venv/
+__pycache__/
+*.pyc
+consultes.json
